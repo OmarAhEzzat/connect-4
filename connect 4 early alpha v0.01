@@ -59,7 +59,7 @@ void checkWin()
 
  void printBoardEzzat()
 {
-    cout<<"     1       2         3        4         5      6        7    "<<endl;
+    cout<<"     1       2         3        4       5        6        7    "<<endl;
     for(int y=0;y<6;y++)
     {
         cout<<" --------------------------------------------------------------"<<endl;
